@@ -1,0 +1,151 @@
+#banner {
+	height: 140px;
+	width: 977px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#bnnr {
+	height: 140px;
+	width: 970px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	font-family: Consolas;
+	font-size: 12pt;
+	font-weight: bolder;
+	color: #FFF;
+	text-decoration: none;
+	background-image: url(../images/banner.png);
+}
+#banner #bnnr #menu {
+	margin-top: 112px;
+	height: auto;
+	width: auto;
+	float: left;
+	margin-left: 8px;
+	border: 1px dotted #0CF;
+	background-color: #333;
+}
+#banner #bnnr #menu a {
+	font-family: Consolas;
+	font-size: 13pt;
+	font-weight: 900;
+	color: #0CF;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+#banner #bnnr #menu a:hover {
+	color: #FFF;
+}
+#icerik {
+	height: 400px;
+	width: 977px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/cerc.png);
+}
+#taban {
+	height: 113px;
+	width: 977px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+#icerik #sol p {
+	font-family: Consolas;
+	font-size: 13px;
+	font-weight: lighter;
+	color: #0F0;
+	text-decoration: none;
+	font-style: oblique;
+	line-height: 12px;
+	margin-top: 10px;
+	margin-right: 8px;
+	margin-bottom: 8px;
+	margin-left: 8px;
+}
+#icerik #sol #resim {
+	float: right;
+	height: 150px;
+	width: 200px;
+	margin: 5px;
+}
+
+#marq {
+	float: left;
+	height: 20px;
+	width: 955px;
+	font-family: Consolas;
+	color: #FFF;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 6px;
+	margin-left: 10px;
+	font-weight: 900;
+}
+#icerik #sag #tabak {
+	height: 60px;
+	width: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	background-image: url(../images/kp.png);
+}
+
+
+#sag {
+	float: right;
+	height: 380px;
+	width: 220px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	background-image: url(../images/ccccc.png);
+}
+#menuuu {
+	height: 135px;
+	width: 200px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: 6px;
+}
+#icerik #sag #takvim {
+	height: 158px;
+	width: 200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#icerik #sag #menuuu ul {
+	margin: 0px;
+	padding: 0px;
+}
+#icerik #sag #menuuu ul li {
+	display: block;
+	list-style-type: none;
+	margin: 6px;
+}
+#icerik #sag #menuuu ul li a {
+	font-family: Consolas;
+	color: #FFF;
+	background-color: #666;
+	text-decoration: none;
+}
+#icerik #sag #menuuu ul li a:hover {
+	text-decoration: underline;
+}
+
+#sol {
+	float: left;
+	height: 380px;
+	width: 726px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	background-image: url(../images/ccc.png);
+}
+.abc{
+	background-color: #000;
+}

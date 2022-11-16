@@ -1,0 +1,49 @@
+﻿
+body {background-color: #ebebeb;font-family: Arial, Helvetica, sans-serif;font-size: 10pt;font-weight: bold ; }
+.tasiyici {width: 200px;margin: 10px auto;padding: 5px;  }
+button {border:0px;font-weight:bold;font-size:3pt;}
+.buton { text-decoration: none;display: inline-block;padding: 5px 10px 5px 10px;color: #ffffff;position: static;-moz-border-radius: 6px;-webkit-border-radius: 6px;-moz-box-shadow: 0 1px 2px #9d9d9d;-webkit-box-shadow: 0 1px 2px #bfbfbf;text-shadow: 0 -1px 0px #747474;border-bottom: 1px  #727272;margin-bottom: 10px;}
+.yesil {background-color: #9ac604;}
+.yesil:hover {background-color: #b3dc27;}
+.mavi {background-color: #0494eb;}
+.mavi:hover {background-color: #30abf6;}
+.kirmizi {background-color: #d30804;}
+.kirmizi:hover {background-color: #f40905;}
+.turuncu {background-color: #ff6c00;}
+.turuncu:hover {background-color: #e26408;}
+.siyah {background-color: #242424;}
+.siyah:hover {background-color: #413f3f;}
+.kahve {background-color: #e08b06;}
+.kahve:hover {background-color: #f29504;}
+.mor {background-color: #880088;}
+.mor:hover {background-color: #AA00AA;}
+.gri {background-color: #8a8a8a;}
+.gri:hover {background-color: #a8a8a8;}
+/* İşlemler */
+.islem {background-color: ;color: #000000;border: 0px solid #d0d0d0;-moz-box-shadow: 0px 1px 0px #d7d7d7;-webkit-box-shadow: 0 1px 0px #d7d7d7;text-shadow: 0 -1px 0px #000000;font-size: 10pt;padding: 7px;background-repeat: no-repeat;}
+.islem:hover {background-color: #eeeeee;}
+/* İkonlar */
+.ikon {background: url(../images/ikonlar.png) no-repeat  left; float:left;margin-right:2px ;width:30px;height: 15px;}
+.anasayfa {background-position: 0 0;}
+.ara {background-position: 0 -17px;}
+.begen {background-position: 0 -34px;}
+.dikkat {background-position: 0 -51px;}
+.dokuman {background-position: 0 -67px;}
+.duzenle {background-position: 0 -84px;}
+.eposta {background-position: 0 -101px;}
+.favori {background-position: 0 -118px;}
+.haber {background-position: 0 -135px;}
+.istatistik {background-position: 0 -152px;}
+.kaydet {background-position: 0 -169px;}
+.kullanici {background-position: 0 -186px;}
+.resim {background-position: 0 -203px;}
+.sepet {background-position: 0 -220px;}
+.sil {background-position: 0 -237px;}
+.takvim {background-position: 0 -254px;}
+.video {background-position: 0 -271px;}
+.yazici {background-position: 0 -288px;}
+.yorum {background-position: 0 -305px;}
+.yukle {background-position: 0 -322px;}
+
+
+
